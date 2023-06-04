@@ -9,4 +9,4 @@ coolc asn1.cl ./cool/examples/atoi.cl
 spim asn1.s
 ```
 
-You can find every thing you need here: [link](https://web.stanford.edu/class/cs143/)
+You can find every thing you need [here](https://web.stanford.edu/class/cs143/)
